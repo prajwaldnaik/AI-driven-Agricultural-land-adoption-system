@@ -1,0 +1,13 @@
+crop,ph_min,ph_max,rain_min,rain_max,tmin,tmax,water_need,shade_pref,slope_ok,spacing,intercrops,notes
+Arecanut (Areca catechu),5.5,7.0,1500,2500,18,35,high,shade|full sun,gentle|moderate,2.7x2.7 m,Black pepper|Cocoa|Banana,Prefers humid tropics; wind protection needed.
+Black Pepper (Piper nigrum),5.5,6.5,1500,3000,20,34,high,shade,gentle|moderate,3x3 m (trailing on standards),Arecanut|Coconut|Gliricidia,Requires support (standards); partial shade suits.
+Banana,5.5,7.5,1000,3000,20,35,high,full sun|shade,gentle,2x2 m,Arecanut|Cocoa|Papaya,Good intercrop in young arecanut; wind-sensitive.
+Cocoa,6.0,7.5,1500,2500,18,32,high,shade,gentle,3x3 m,Arecanut|Banana,Needs shade (40–60%) under arecanut/coconut.
+Coconut,5.2,8.0,1000,3000,20,35,medium|high,full sun,gentle|moderate,7.5x7.5 m,Black pepper|Cocoa,Tolerates coastal to inland tropics; spacing varies by system.
+Turmeric,5.0,7.5,1000,2000,20,35,medium,shade|full sun,gentle,0.45x0.25 m,Arecanut|Banana|Ginger,Suited as intercrop with partial shade.
+Ginger,5.5,6.5,1000,2000,20,30,medium,shade|full sun,gentle,0.3x0.25 m,Turmeric|Banana,Requires well-drained soils; good under partial shade.
+Paddy (Rice),5.0,7.0,1200,2500,18,35,high,full sun,gentle|moderate,Varies (row ~20 cm),-,Needs continuous water; not for sloping uplands.
+Ragi (Finger millet),5.0,7.5,500,1000,18,32,low|medium,full sun,moderate|steep,0.45x0.10 m,Pulses,Drought-tolerant; suits rainfed uplands.
+Black Gram (Urd),6.0,7.5,500,900,20,35,low|medium,full sun,moderate,0.3x0.1 m,Millets,Short-duration pulse; improves soil fertility.
+Maize,5.5,7.0,500,1000,18,35,medium,full sun,moderate,0.6x0.2 m,Pulses,Versatile; avoid waterlogging.
+Arecanut+Pepper+Banana system,5.5,7.0,1500,2500,18,35,high,shade|full sun,gentle,2.7x2.7 m (areca grid),Pepper on areca|Banana in alleys,Multi-storey system for humid zones; good for Hassan belt.
